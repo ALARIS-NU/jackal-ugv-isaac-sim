@@ -1,0 +1,8 @@
+{
+	"openmp": "-fopenmp",
+	"qpoases": "",
+	"qpdunes": "",
+	"osqp": "",
+	"hpmpc": "",
+	"ooqp": ""
+}

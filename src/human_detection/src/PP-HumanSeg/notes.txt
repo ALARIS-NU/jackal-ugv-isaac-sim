@@ -1,0 +1,13 @@
+python3 src/seg_demo.py --config inference_models/human_pp_humansegv2_mobile_192x192_inference_model_with_softmax/deploy.yaml
+
+
+
+
+
+python3 src/seg_demo.py \
+  --config inference_models/human_pp_humansegv2_mobile_192x192_inference_model_with_softmax/deploy.yaml \
+  --img_path data/1.jpg \
+  --save_dir data/out1.jpg
+  
+  
+  
