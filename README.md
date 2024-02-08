@@ -1,4 +1,4 @@
-# test
+Importing Jackal UGV to Isaac Sim
 Import URDF
 Prepare URDF file of a skid steer vehicle. 
 Launch Isaac Sim . In the toolbar click Isaac Utils, then go to Workflows, then URDF importer. If there is no URDF Importer, click Window on the toolbar and click Extensions. In the new window, search for ISAAC SIM URDF IMPORTER and toggle the slider near DISABLED label.
