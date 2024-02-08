@@ -37,7 +37,9 @@ Lidar must be connected to the existing frame of the robot.
 ![image4](https://github.com/ALARIS-NU/jackal-ugv-isaac-sim/assets/63298970/9810790f-9cd1-4436-82da-e5deac126a48)
 
 Fig 4. Camera node with RGB and Depth cameras.
+
 Physics scene
+
 The other problem that you will encounter is that the robot does not act like a real robot or robot in GazeboSim. It cannot reach its destination in Isaac Sim, circling around it. The fix is to fine tune the physics scene in Isaac Sim. Click on physicsScene in the Stage tab and change parameters in Scene and Advanced subtabs to the shown below. You can increase time Steps Per Second more, but it slows the performance. 
 Another part is to assign a material to the skid-steer vehicle’s wheels. Create a material, and assign it to every wheel link of the mobile robot. That would fix rocking in motion.
 
