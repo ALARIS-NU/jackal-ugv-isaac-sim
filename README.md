@@ -1,3 +1,4 @@
+Requirements: Isaac Sim , ROS Noetic
 
 Importing Jackal UGV to Isaac Sim
 
