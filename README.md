@@ -1,4 +1,6 @@
 Requirements: Isaac Sim , ROS Noetic
+```
+sudo apt-get install ros-noetic-jackal-simulator ros-noetic-jackal-desktop ros-noetic-rosserial ros-noetic-sick-tim ros-noetic-odom2tf ros-noetic-nmea-messages ros-noetic-pointcloud-to-lasescan ros-noetic-pointgrey-camera-driver ros-noetic-catkin-simple ```
 
 Importing Jackal UGV to Isaac Sim
 
